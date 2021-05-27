@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "desafio-servidor-express",
+  "version": "1.0.0",
+  "description": "Desafio 07 curso backend",
+  "main": "desafio-servidor-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Perez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
